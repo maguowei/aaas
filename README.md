@@ -20,4 +20,5 @@ $ uiautomator2 init
 
 ## Ref
 
+- [google/android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts)
 - [uiautomator2](https://github.com/openatx/uiautomator2) Android Uiautomator2 Python Wrapper
